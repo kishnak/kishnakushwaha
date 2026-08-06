@@ -9,9 +9,9 @@ Scaling VeriFact (AI-powered fact-checking) and building Fintech solutions.<br><
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kishnak&theme=nord&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kishnak&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kishnak&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishnak&theme=nord_dark)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kishnak&theme=nord_dark)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kishnak&theme=nord_dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kishnak&icon=0&color=0)](https://visitcount.itsvg.in)
