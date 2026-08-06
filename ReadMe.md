@@ -14,5 +14,3 @@ Scaling VeriFact (AI-powered fact-checking) and building Fintech solutions.<br><
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kishnakushwaha&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
